@@ -1,0 +1,4 @@
+# Python-Scientific-Calculation
+Python科学计算
+边学习边琢磨一些python数值计算的方法
+主要是用于电机的仿真和建模
